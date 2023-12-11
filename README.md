@@ -2,6 +2,8 @@
 
 > I'm learning basic programming
 
+*   🌍  I'm based in Colombia
+
 <!--
 **mateov0/mateov0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
